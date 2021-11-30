@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-# TO SEE my solution, 
+# TO VIEW DEPLOYMENT, 
 VISIT - https://codexgrey.github.io/Social-Proof-Section/
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
